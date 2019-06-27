@@ -1,0 +1,14 @@
+/Users/rebecca.anderson/repos/product-service/ProductService/obj/Debug/netcoreapp2.2/ProductService.csprojAssemblyReference.cache
+/Users/rebecca.anderson/repos/product-service/ProductService/obj/Debug/netcoreapp2.2/ProductService.csproj.CoreCompileInputs.cache
+/Users/rebecca.anderson/repos/product-service/ProductService/obj/Debug/netcoreapp2.2/ProductService.RazorAssemblyInfo.cache
+/Users/rebecca.anderson/repos/product-service/ProductService/obj/Debug/netcoreapp2.2/ProductService.RazorAssemblyInfo.cs
+/Users/rebecca.anderson/repos/product-service/ProductService/obj/Debug/netcoreapp2.2/ProductService.AssemblyInfoInputs.cache
+/Users/rebecca.anderson/repos/product-service/ProductService/obj/Debug/netcoreapp2.2/ProductService.AssemblyInfo.cs
+/Users/rebecca.anderson/repos/product-service/ProductService/bin/Debug/netcoreapp2.2/ProductService.deps.json
+/Users/rebecca.anderson/repos/product-service/ProductService/bin/Debug/netcoreapp2.2/ProductService.runtimeconfig.json
+/Users/rebecca.anderson/repos/product-service/ProductService/bin/Debug/netcoreapp2.2/ProductService.runtimeconfig.dev.json
+/Users/rebecca.anderson/repos/product-service/ProductService/bin/Debug/netcoreapp2.2/ProductService.dll
+/Users/rebecca.anderson/repos/product-service/ProductService/bin/Debug/netcoreapp2.2/ProductService.pdb
+/Users/rebecca.anderson/repos/product-service/ProductService/obj/Debug/netcoreapp2.2/ProductService.RazorTargetAssemblyInfo.cache
+/Users/rebecca.anderson/repos/product-service/ProductService/obj/Debug/netcoreapp2.2/ProductService.dll
+/Users/rebecca.anderson/repos/product-service/ProductService/obj/Debug/netcoreapp2.2/ProductService.pdb

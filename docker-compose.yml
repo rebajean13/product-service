@@ -1,0 +1,28 @@
+version: '3'
+services:
+  app:
+    build: . 
+    ports: 
+      - 5000:5000
+    working_dir: /app/ProductService 
+    command: /bin/sh -c "dotnet run"
+    links:
+      - mongodb
+    depends_on:
+      - mongodb
+  mongodb:
+        image: mongo:latest
+        container_name: "mongodb"
+        restart: always
+        environment:
+          - MONGO_INITDB_ROOT_USERNAME=admin
+          - MONGO_INITDB_ROOT_PASSWORD=password
+          - MONGO_INITDB_DATABASE=product
+        volumes:
+          - ./mongo-init.js:/docker-entrypoint-initdb.d/mongo-init.js:ro
+        ports:
+            - 27017:27017
+volumes:
+  data-volume:
+
+
